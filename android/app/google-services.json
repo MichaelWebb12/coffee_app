@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "867888737762",
+    "firebase_url": "https://babbagebackend.firebaseio.com",
+    "project_id": "babbagebackend",
+    "storage_bucket": "babbagebackend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867888737762:android:e3f8364a8be3f2612f9dbb",
+        "android_client_info": {
+          "package_name": "com.tutorial.babbage_backend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867888737762-qunvbfuju62785n10os4ukebd697imli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxs_4Mi5YUbQiCxnzBZRtGl_TD-gGj4jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867888737762-qunvbfuju62785n10os4ukebd697imli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
